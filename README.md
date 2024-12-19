@@ -53,6 +53,20 @@ A responsive Netflix clone built using HTML, CSS, and JavaScript. The project mi
 
 ---
 
+
+
+## How it looks
+
+![Screenshot 2024-12-19 120141](https://github.com/user-attachments/assets/949e197d-98e0-4e74-b5a4-8e1896e7cdfe)
+
+
+![Screenshot 2024-12-19 120216](https://github.com/user-attachments/assets/11602417-9385-4cf4-9978-0043bda25e62)
+
+
+![Screenshot 2024-12-19 120228](https://github.com/user-attachments/assets/26e17cf8-36fd-4d63-a2aa-f207495260c0)
+
+
+---
 ## How to Run the Project
 
 1. **Clone the Repository**:
